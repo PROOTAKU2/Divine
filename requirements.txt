@@ -43,3 +43,4 @@ git+https://github.com/joetats/youtube_search@master
 bing-image-urls
 git+https://github.com/TEAMPURVI/PurviAPI
 Cloudscraper
+git+https://github.com/PROOTAKU2/Procokies.git
